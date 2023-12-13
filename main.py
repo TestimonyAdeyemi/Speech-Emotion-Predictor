@@ -135,14 +135,14 @@ def load_single_data(file):
 
 
 emotion_images = {
-    'neutral': 'image\neutral.png',
-    'calm': 'image\calm.png',
-    'happy': 'image\happy.png',
-    'sad': 'image\sad.png',
-    'angry': 'image\angry.png',
-    'fearful': 'image\fearful.png',
-    'disgust': 'image\disgust.png',
-    'surprised': 'image\surprised.png',
+    'neutral': 'neutral.png',
+    'calm': 'calm.png',
+    'happy': 'happy.png',
+    'sad': 'sad.png',
+    'angry': 'angry.png',
+    'fearful': 'fearful.png',
+    'disgust': 'disgust.png',
+    'surprised': 'surprised.png',
 }
 
 
