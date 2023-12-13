@@ -11,5 +11,4 @@ tensorflow-estimator
 tensorflow-intel
 tensorflow-io-gcs-filesystem
 termcolor
-
-
+matplotlib
