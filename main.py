@@ -132,11 +132,6 @@ def load_single_data(file):
 
 
 
-XX, yy = load_single_data("03-01-01-01-01-01-01.WAV")
-# Predict for the test setee
-XXTemp=np.expand_dims(XX, axis=2)
-prediction = model.predict(XXTemp)
-
 
 
 emotion_images = {
