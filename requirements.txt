@@ -4,10 +4,6 @@ numpy
 pandas
 librosa
 streamlit
-streamlit-bokeh-events
-streamlit-cropper
-tabulat
-tenacity
 tensorboard
 tensorboard-data-server
 tensorflow
